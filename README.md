@@ -1,2 +1,2 @@
 # Animated-Report-Card-
-by using only HTML,CSS &amp; JS.
+by using only HTML,CSS
